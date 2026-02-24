@@ -19,6 +19,8 @@ Then design & analyze a comprehensive weekly Credit Card dashboard to generate â
   
 This will enable key stakeholders to monitor & analyze the CC operations effectively.
 
+### Interactive Dashboard Link: 
+
 ### 3. Extraction of Data (ETL Process):
 Data are imported to SQL Database and transformed for meaningful analysis - 
 Preparing the csv files 
