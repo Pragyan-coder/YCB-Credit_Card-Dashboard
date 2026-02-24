@@ -2,7 +2,7 @@
 Analysed and generated insights for York City Bank - Credit Card using 'Power BI' 
 
 ### 1. Project Details:
-- Client - York City Bank Inc. England 
+- Client - York City Bank Inc. Vermont (U.S) 
 - Dataset - January to December 2025
 - Segment - Credit Card
 
