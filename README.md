@@ -51,8 +51,7 @@ Created dashboard for visualizations using – Bar chart, Matrix table, Slicers,
 - Total Revenue (in 2025) – 56.52 Million (£)
 #### WoW change:
 - Revenue increased by 28.8%
-- Total Transaction Amt & Count increased by xx% & xx%
-- Customer count increased by xx%
+- Total Transaction Amt increased by 2.2 %
 
 #### Overview YTD:
 - Total interest – 7.98 M
