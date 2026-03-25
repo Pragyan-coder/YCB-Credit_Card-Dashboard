@@ -48,7 +48,7 @@ Created dashboard for visualizations using – Bar chart, Matrix table, Slicers,
 ![CC Customer Report](https://github.com/user-attachments/assets/b4c34d94-032e-4a76-9b7a-adba8a47df93)
 
 ### 6. Insights: 
-- Total Revenue (in 2025) – 56.52 Million (£)
+- Total Revenue (in 2025) – 56.52 Million ($)
 #### WoW change:
 - Revenue increased by 28.8%
 - Total Transaction Amt increased by 2.2 %
