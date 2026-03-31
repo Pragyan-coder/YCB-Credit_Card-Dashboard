@@ -21,6 +21,7 @@ This will enable key stakeholders to monitor & analyze the CC operations effecti
 
 ### Interactive Dashboard Link:
 - [Click here to View](https://app.powerbi.com/groups/me/reports/a279e09f-b6c5-4fb8-9bb7-84f847938e58/f08df47f646660abe7b7?experience=power-bi)
+- [Click here to View](https://app.powerbi.com/view?r=eyJrIjoiOTIyZjUxNTMtNTIyNC00OWM2LTlkOWQtNzBiYTZlZDIwN2EwIiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9)
 
 ### 3. Extraction of Data (ETL Process):
 Data are imported to SQL Database and transformed for meaningful analysis - 
