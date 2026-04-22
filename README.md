@@ -10,6 +10,8 @@ YCB Client wants a detail 'Visual Reports' on their Credit Card sales for the fi
 Our team needs to provide a dashboard report with in-depth insights & analysis. 
 It will help our client to prepare & make strategic decisions for their upcoming market 2026. 
 
+<img width="2752" height="1536" alt="unn jpg" src="https://github.com/user-attachments/assets/d55faf12-98d5-4f39-a2f9-bbb765be3ea3" />
+
 ### 2. Problem Statement:
 Need to gather data from right sources.
 Then design & analyze a comprehensive weekly Credit Card dashboard to generate ‘Real Time’ insights.
